@@ -36,3 +36,28 @@ font-size: 300%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
+div {
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.849), 0 6px 6px rgba(212, 33, 33, 0.23);
+
+
+}
+.inner {
+    box-shadow: 0 3px 6px rgba(245, 19, 19, 0.849), 0 6px 6px rgba(14, 1, 1, 0.747);
+}
+
+a {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: rgb(201, 197, 8);
+}
+
+#navbar {
+    position: fixed;
+        top: 0px;
+        left: 0px;
+    float: left;
+    padding: 15px;
+}
